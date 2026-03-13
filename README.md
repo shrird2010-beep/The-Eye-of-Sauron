@@ -23,7 +23,7 @@ The final model is intentionally simplified to stay within a strict budget while
 
 | CAD Model |
 |-----------|
-![Screenshot](Screenshot%202026-01-02%20175517.png)
+![Screenshot](Screenshot%202026-03-13%20130502.png)
 Initial work focused on sourcing a suitable video sphere and establishing the basic geometry of the shell. Prior experience with structural CAD from earlier projects helped guide the approach to part breakdown and assembly.
 ---
 ## Final Model
