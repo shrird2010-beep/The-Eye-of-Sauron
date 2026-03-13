@@ -1,5 +1,6 @@
 # 👁️‍🔥 The-Eye-of-Sauron- Shrihan Desai
 I've been watching The Lord of the Rings and the Lego batman movie and I got intrested in building a mini Eye of Sauron that I can put in my room. This is my project to create that.
+Inspo: ![Screenshot](Screenshot%202026-03-13%20150513.png)
 
 ## Overview
 **The Eye of Sauron** is a small hardware project designed to house an AliExpress video sphere inside a custom 3D‑printed shell. When the sphere is assembled, it plays a looping animation that creates the appearance of a **glowing eye**. The project focuses on cost‑efficient part selection and clean mechanical design rather than electronics or firmware.
@@ -29,8 +30,7 @@ Initial work focused on sourcing a suitable video sphere and establishing the ba
 ## Final Model
 Here is my final predicted model. To see the "final assembly", check the tab above. ( I also added the CAD for the ball in the assembly.It doesnt matter though because that part will come fully assembled.)
 
-![Screenshot](Screenshot%202025-12-30%20190723.png)
-
+![Screenshot](Screenshot%202026-03-13%20145000.png)
 ---
 
 ## Bill of Materials (BOM)
