@@ -43,7 +43,8 @@ Here is my final predicted model. To see the "final assembly", check the tab abo
 |------|------|
 | 3D Video Crystal Ball DIY Memory Ball (I have a new customer deal) | $24.22 |
 | The CAD (I will pay for this)| $0 |
-| **Total** | **$24.22 (~$25)** | Not including shippinh
+| **Total** | **$24.22 (~$25)** | 
+***Not including shipping. Im going to need that as well***
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
