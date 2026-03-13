@@ -29,7 +29,7 @@ The final model is intentionally simplified to stay within a strict budget while
 | CAD Model |
 |-----------|
 ![Screenshot](Screenshot%202026-03-13%20130502.png)
-Initial work focused on sourcing a suitable video sphere and establishing the basic geometry of the shell. Prior experience with structural CAD from earlier projects helped guide the approach to part breakdown and assembly.
+Initial work focused on sourcing a suitable video sphere and creating the shape of the shell. My experience with structural CAD from earlier projects helped me with the part breakdown and assembly.
 ---
 ## Final Model
 Here is my final predicted model. To see the "final assembly", check the tab above. ( I also added the CAD for the ball in the assembly.It doesnt matter though because that part will come fully assembled.)
@@ -44,7 +44,7 @@ Here is my final predicted model. To see the "final assembly", check the tab abo
 | 3D Video Crystal Ball DIY Memory Ball (I have a new customer deal) | $24.22 |
 | The CAD (I will pay for this)| $0 |
 | **Total** | **$24.22 (~$25)** | 
-***Not including shipping. Im going to need that as well***
+***Not including shipping. I'm going to need that as well***
 
 All materials were selected based on availability, strength, adjustability, and cost efficiency. This took me too long to budget.
 
@@ -70,8 +70,8 @@ https://www.aliexpress.us/item/3256809774053373.html?spm=a2g0o.productlist.main.
 
 ## Future Improvements
 - Increased wall thickness for improved durability
-- A more detailed outer shell to better match the original reference
-- An entirely different base for the tower
+- A more detailed outer shell to better match the original picture
+- An completely different base for the tower
 - Custom animation sets tailored to the geometry of the shell
 
 ---
